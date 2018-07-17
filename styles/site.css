@@ -1,5 +1,6 @@
 body {
-    background: linear-gradient(35deg, #CCFFFF, #FFCCCC);
+    background: linear-gradient(35deg, #CCFFFF, #FFCCCC) no-repeat center fixed;
+    background-size: cover;  
 }
 
 ul {
